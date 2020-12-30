@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B29BA350-560F-456E-91E1-6051D7EF4B87}|Default">
+  <MonoDevelop.Ide.ItemProperties.KanyeRestAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KanyeRestAPI/Program.cs">
+    <Files>
+      <File FileName="KanyeRestAPI/Program.cs" Line="17" Column="2" />
+      <File FileName="KanyeRestAPI/QuoteGenerator.cs" Line="22" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KanyeRestAPI" expanded="True">
+            <Node name="KanyeRestAPI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

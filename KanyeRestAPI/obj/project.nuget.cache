@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZw5xh7moWqMbjjPiCwO3V0JeVoHe2mjFvP0Y28rzjhJBdbo8COJ77Rsv+OeEqc2frTHhA1mNkFNqkfDY/425w==",
+  "success": true,
+  "projectFilePath": "/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/KanyeRestAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/cameronstock/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/cameronstock/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

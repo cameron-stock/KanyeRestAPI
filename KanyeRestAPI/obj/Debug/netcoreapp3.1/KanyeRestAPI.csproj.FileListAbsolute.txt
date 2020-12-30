@@ -1,0 +1,14 @@
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/obj/Debug/netcoreapp3.1/KanyeRestAPI.csprojAssemblyReference.cache
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/obj/Debug/netcoreapp3.1/KanyeRestAPI.AssemblyInfoInputs.cache
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/obj/Debug/netcoreapp3.1/KanyeRestAPI.AssemblyInfo.cs
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/obj/Debug/netcoreapp3.1/KanyeRestAPI.csproj.CoreCompileInputs.cache
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/bin/Debug/netcoreapp3.1/KanyeRestAPI.deps.json
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/bin/Debug/netcoreapp3.1/KanyeRestAPI.runtimeconfig.json
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/bin/Debug/netcoreapp3.1/KanyeRestAPI.runtimeconfig.dev.json
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/bin/Debug/netcoreapp3.1/KanyeRestAPI.dll
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/bin/Debug/netcoreapp3.1/KanyeRestAPI.pdb
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/obj/Debug/netcoreapp3.1/KanyeRestAPI.csproj.CopyComplete
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/obj/Debug/netcoreapp3.1/KanyeRestAPI.dll
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/obj/Debug/netcoreapp3.1/KanyeRestAPI.pdb
+/Users/cameronstock/Desktop/repos/KanyeRestAPI/KanyeRestAPI/obj/Debug/netcoreapp3.1/KanyeRestAPI.genruntimeconfig.cache
